@@ -1,0 +1,16 @@
+[
+  {
+    "id": "praxis_muster_berlin",
+    "name": "Zahnarztpraxis Dr. Muster",
+    "city": "Berlin",
+    "specialty": "ZA",
+    "booking_vendor": "doctolib",
+    "booking_url": "https://www.doctolib.de/zahnarzt/berlin/dr-muster",
+    "reason_map": {
+      "akute_schmerzen": "toothache",
+      "kontrolle": "checkup",
+      "pzr": "cleaning"
+    },
+    "visible": true
+  }
+]
