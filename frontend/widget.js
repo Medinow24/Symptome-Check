@@ -1,4 +1,4 @@
-const API = "https://DEIN-BACKEND.onrender.com";
+const API = "https://symptome-check.onrender.com";
 let consent = false;
 let history = [];
 
